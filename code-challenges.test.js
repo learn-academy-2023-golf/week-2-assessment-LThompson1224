@@ -12,82 +12,29 @@
 
 // a) Create a test with expect statements for each of the variables provided.
 
-// describe("multiplyBy3", () => {
-//   it("returns an array with all the numbers multiplied by 3.", () => {
-//     expect(multiplyBy3(numbersArray1)).toEqual([18,21,24]) expect(multiplyBy3(numbersArray2)).toEqual([72,81,90,99,108])
-//     ("Hello, LEARN student!")
-//   })
-// })
-// const numbersArray1 = [6, 7, 8, 9, 10]
-// // Expected output: [18, 21, 24, 27, 30]
-// const numbersArray2 = [24, 27, 30, 33, 36]
-// // Expected output: [72, 81, 90, 99, 108]
 
 // // b) Create the function that makes the test pass.
 
 // // Pseudo code:
 
 // // --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisible by three or not.
-
+const cars = {
+    vehicle: 1
+    vehicle: 2
+    vehicle: 3
+}
+    
 // // a) Create a test with expect statements for each of the variables provided.
-// // Function to check if a number is evenly divisible by three
-// function isDivisibleByThree(object) {
-//     const number = object.number;
-//     if (number % 3 === 0) {
-//       return `${number} is divisible by three`;
-//     } else {
-//       return `${number} is not divisible by three`;
-//     }
-//   }
+describe()
   
 //   // Test cases using Jest
-//   test('Check if a number is evenly divisible by three', () => {
-//     const object1 = { number: 15 };
-//     expect(isDivisibleByThree(object1)).toBe('15 is divisible by three');
-  
-//     const object2 = { number: 0 };
-//     expect(isDivisibleByThree(object2)).toBe('0 is divisible by three');
-  
-//     const object3 = { number: -7 };
-//     expect(isDivisibleByThree(object3)).toBe('-7 is not divisible by three');
-//   });
-  
-// const object1 = { number: 15 }
-// // Expected output: "15 is divisible by three"
-// const object2 = { number: 0 }
-// // Expected output: "0 is divisible by three"
-// const object3 = { number: -7 }
-// // Expected output: "-7 is not divisible by three"
-
+//  
 // b) Create the function that makes the test pass.
 
-// function isDivisibleByThree(object) {
-//     const number = object.number;
-//     if (typeof number !== 'number') {
-//       return 'Invalid input: Not a number';
-//     }
-  
-//     if (number % 3 === 0) {
-//       return `${number} is divisible by three`;
-//     } else {
-//       return `${number} is not divisible by three`;
-//     }
-//   }
   
 
-// Pseudo code:FUNCTION isDivisibleByThree(object):
-//create a failing test witha good fail 
-//once we get a good fail then we run a test that will pass 
-// number = object.number
-
-//IF number is not a number:
-//RETURN "Invalid input"
-    
-//IF number is divisible by 3:
-// RETURN "Divisible by three"
-//ELSE:
-//RETURN "Not divisible by three"
-
+// Pseudo code: create a function that takes a object as an argument and decides if the number inside it is evenly divisble by 3 or not 
+// i would do this but i just dont know how to set up a object as a argument. im watching the lecture but its not clicking to me .
 
 // --------------------2) Create a function that takes in an array of words and returns an array with all the words capitalized.
 
@@ -102,7 +49,7 @@ const randomNouns2 = ["temperature", "database", "chopsticks", "mango"]
 
 // b) Create the function that makes the test pass.
 
-// Pseudo code: 
+// Pseudo code: its not clicking with me on how to properyly set up a test . i know how to start the application in the terminal and i know how to run the jest test itself . but i dont understand the logic to create a code too run.it doesnt make sense to me . 
 
 
   

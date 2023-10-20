@@ -8,23 +8,23 @@
 
 // --------------------1) What will this log?
 
-//const cohort = "Golf 2023"
-//console.log(cohort.split(" "))
+// const cohort = "Golf 2023"
+// console.log(cohort.split(" "))
 
 // a) Your answer:["G","o""l","f" "2","0","2","3"]
 
 
-// b) Verify and explain: 
+// b) Verify and explain: the answer was ['Golf', '2023'] when i input the logic inside the terminal i though it would give me the answer above but instead what i thought it was going to give it split them into their own individual strings , however after researching the .split converts the string into an array and im guessing the empty string inside the parenthesis was supposed to specify what to split. 
 
 // --------------------2) What will this log?
 
-//const greeter = (name) => {
-//`Hello, ${name}!`
-//}
- //console.log(greeter("LEARN Student"))
+// const greeter = (name) => {
+// `Hello, ${name}!`
+// }
+//  console.log(greeter("LEARN Student"))
 
 // a) Your answer:undefined
-// b) Verify and explain:
+// b) Verify and explain: when i ran the logic into my terminal i got defined and my guess is because in the console log the string LEARN Student was not identified as a constant or variable . which makes the code come out as undefined.
 
 // --------------------3) What will this log?
 

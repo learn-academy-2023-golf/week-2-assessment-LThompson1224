@@ -34,8 +34,8 @@ Researched answer: hoisting in javascript where variable and function declaratio
 
 Research and define the following terms to the best of your ability.
 
-1. Spread operator:
+1. Spread operator: a feature in javascript that allows you to spread elements from one data structure to another. by using three dots
 
-2. React:
+2. React: a open source javascript library for creating user interfaces. everything in react is a component. react components are independent and reusable pieces of code. each component contains its own functionality and returns markup.
 
-3. JSX:
+3. JSX: is a javascript syntax extension often used with react for  building using user interfaces.allows you to write HTML-like code within your javascript code.
